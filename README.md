@@ -3,4 +3,6 @@ Node Taking App developed for Node Environment with Command line Interface. it S
 
 for Running the App we need to install packages for that
 Simply run this command
-npm i
+
+#  npm i
+
